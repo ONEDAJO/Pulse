@@ -1,2 +1,2 @@
-# Tr-ningstimer
+# Trainingtimer
 Träningstimer
